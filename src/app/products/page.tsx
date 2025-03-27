@@ -4,7 +4,6 @@
 import { MdDeleteForever } from "react-icons/md";
 import { useEffect, useState } from "react";
 import { ShoppingCart, X } from "lucide-react"; // Iconos
-import { TiDelete } from "react-icons/ti";
 
 interface Product {
   id: number;
